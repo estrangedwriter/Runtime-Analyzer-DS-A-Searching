@@ -8,6 +8,6 @@
 
 ### 3. run the following command in the terminal
 
- > python3 (main.py)
+ > python3 analyzer.py
 
 ![screenshot](https://github.com/estrangedwriter/Runtime-Analyzer-DS-A-Searching/blob/main/runtime-analyzer-searching.png)
