@@ -10,3 +10,4 @@
 
  > python3 (main.py)
 
+![screenshot](https://github.com/estrangedwriter/Runtime-Analyzer-DS-A-Searching/blob/main/runtime-analyzer-searching.png)
